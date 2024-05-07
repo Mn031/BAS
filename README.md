@@ -1,2 +1,5 @@
 # BAS
-Automation Software using Python, Django, Bootstrap
+BookShop Automation Software
+pip install django
+pip install django-admin-rangefilter
+pip install matplotlib
